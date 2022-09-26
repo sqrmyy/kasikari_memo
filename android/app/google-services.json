@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034777886416",
+    "project_id": "kasikari-memo-74033",
+    "storage_bucket": "kasikari-memo-74033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034777886416:android:348c0410567960aff568d5",
+        "android_client_info": {
+          "package_name": "com.example.kasikari_mem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034777886416-dtc03bsva7dt41lmidk86m091gr6v643.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPPKF0w_dU41-wjuoDoO5c9mIMI6eNrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034777886416-dtc03bsva7dt41lmidk86m091gr6v643.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
